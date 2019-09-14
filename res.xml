@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Привет сука сука говно привет как дела?</Say>
+<Play>https://raw.githubusercontent.com/MukhinAlexey/voice/master/test.mp3</Play>
+</Response>
